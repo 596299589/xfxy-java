@@ -24,7 +24,7 @@ public class MyService {
 
     private final String TAG = "MyService";
 
-    private final String SERVER_IP = "112.74.41.147";
+    private final String SERVER_IP = ;
     private final String TOKEN_URL = "http://" + SERVER_IP + "/XfxyService/push/sign.php";
 
     private ICometClient mClient;
